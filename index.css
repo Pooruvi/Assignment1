@@ -1,0 +1,52 @@
+.Code1{
+    color: #660000;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    margin: 16px 0px;
+    position:relative;
+    left:50px;
+    white-space: pre;
+}
+
+
+code{
+
+    color: #660000;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-style: normal;
+}
+
+.headings{
+    font-size: large;
+}
+
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .margin{
+      margin: 0px 0px 0px 40px;
+  }
+
+  .code2{
+    color: black;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    margin: 16px 0px;
+    
+    white-space: pre;
+    font-weight: bold;
+  }
+
+  .Copy-Right{
+      margin: 0px;
+  }
+
+.number{
+    color:#0000ff;
+    font-family:  Verdana, Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-style: italic;
+}
+
+  
